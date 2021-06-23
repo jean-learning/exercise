@@ -1,0 +1,11 @@
+com/org/jean/mysql/config/MysqlConfig.class
+com/org/jean/mysql/service/StudentInfoService.class
+com/org/jean/dao/StudentInfoDao.class
+com/org/jean/mysql/model/QueryProperties.class
+com/org/jean/mysql/controller/MysqlController.class
+com/org/jean/config/SwaggerConfig.class
+com/org/jean/controller/ApplicationController.class
+com/org/jean/mysql/service/StudentMapper.class
+com/org/jean/mysql/model/Student.class
+com/org/jean/Application.class
+com/org/jean/mysql/config/QueryConfig.class

@@ -1,0 +1,23 @@
+server:
+  port: 8091
+
+spring:
+  application:
+    name: exercise
+  datasource:
+    url: jdbc:mysql://localhost:3306/students_db
+    username: root
+    password: root
+  kafka:
+      bootstrapservers: localhost:9092
+      topic: sample-events
+      consumer:
+        group-id: test-group1
+
+mysqldb:
+  querybyid: select id, name, age from students where id =
+
+query:
+  file: /query.properties
+
+

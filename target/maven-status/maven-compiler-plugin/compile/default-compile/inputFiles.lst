@@ -1,0 +1,11 @@
+/home/jean/workspace/exercise/src/main/java/com/org/jean/mysql/model/Student.java
+/home/jean/workspace/exercise/src/main/java/com/org/jean/config/SwaggerConfig.java
+/home/jean/workspace/exercise/src/main/java/com/org/jean/dao/StudentInfoDao.java
+/home/jean/workspace/exercise/src/main/java/com/org/jean/mysql/model/QueryProperties.java
+/home/jean/workspace/exercise/src/main/java/com/org/jean/mysql/service/StudentInfoService.java
+/home/jean/workspace/exercise/src/main/java/com/org/jean/mysql/config/MysqlConfig.java
+/home/jean/workspace/exercise/src/main/java/com/org/jean/mysql/service/StudentMapper.java
+/home/jean/workspace/exercise/src/main/java/com/org/jean/Application.java
+/home/jean/workspace/exercise/src/main/java/com/org/jean/mysql/config/QueryConfig.java
+/home/jean/workspace/exercise/src/main/java/com/org/jean/controller/ApplicationController.java
+/home/jean/workspace/exercise/src/main/java/com/org/jean/mysql/controller/MysqlController.java
